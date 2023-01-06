@@ -1,0 +1,14 @@
+server:
+  host: 127.0.0.1
+  port: 8080
+  timeout:
+    server: 30
+    read: 15
+    write: 10
+    idle: 5
+  database:
+    username: walletkita
+    password: W@Ll3tKita!
+    database: walletkita_main_core
+    port: 3306
+    server: localhost
